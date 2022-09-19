@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1593897660 source:c:\users\88697\desktop\final exercise\charlistnode.cpp
+	"CharListNode.h"
+
+1593897616 c:\users\88697\desktop\final exercise\charlistnode.h
+
+1593898037 source:c:\users\88697\desktop\final exercise\charlist.cpp
+	"CharList.h"
+	"CharListNode.h"
+	<iostream>
+	<new>
+
+1593898028 c:\users\88697\desktop\final exercise\charlist.h
+	"CharListNode.h"
+
+1593898845 source:c:\users\88697\desktop\final exercise\intlistnode.cpp
+	"IntListNode.h"
+
+1593898381 c:\users\88697\desktop\final exercise\intlistnode.h
+
+1593898757 source:c:\users\88697\desktop\final exercise\intlist.cpp
+	"IntList.h"
+	"IntListNode.h"
+	<iostream>
+	<new>
+
+1593898854 c:\users\88697\desktop\final exercise\intlist.h
+	"IntListNode.h"
+
+1593902692 source:c:\users\88697\desktop\final exercise\main.cpp
+	<iostream>
+	<cstdlib>
+	"InFixToPostFix.h"
+	"PostFixEvaluation.h"
+
+1593899195 source:c:\users\88697\desktop\final exercise\charstack.cpp
+	"CharStack.h"
+	"CharList.h"
+	<iostream>
+
+1593899311 c:\users\88697\desktop\final exercise\charstack.h
+	"CharList.h"
+
+1593899559 source:c:\users\88697\desktop\final exercise\intstack.cpp
+	"IntStack.h"
+	"IntList.h"
+	<iostream>
+
+1593899468 c:\users\88697\desktop\final exercise\intstack.h
+	"IntList.h"
+
+1593902404 source:c:\users\88697\desktop\final exercise\infixtopostfix.cpp
+	"InFixToPostFix.h"
+	"CharStack.h"
+	<iostream>
+	<cstring>
+
+1593902363 c:\users\88697\desktop\final exercise\infixtopostfix.h
+	"CharStack.h"
+
+1593901656 c:\users\88697\desktop\final exercise\postfixevaluation.h
+	"InFixToPostFix.h"
+
+1593902669 source:c:\users\88697\desktop\final exercise\postfixevaluation.cpp
+	"PostFixEvaluation.h"
+	"IntStack.h"
+	"InFixToPostFix.h"
+	<cmath>
+
